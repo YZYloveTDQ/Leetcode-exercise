@@ -9,3 +9,5 @@ leetcode刷题
 - [LeetCode：二维数组—旋转矩阵](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001316&idx=3&sn=a2a8c28c68266358b6e81a0d3aa627ae&chksm=69e7da755e9053639fc0686309c499b9e2fa9cc2b9cb86227f6e2e60e678b1381b25710ea496#rd)
 - [LeetCode：二维数组—零矩阵](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001435&idx=1&sn=45310dc5348fc36247c132de1246b3b4&chksm=69e7daca5e9053dc3f98ead5ed3e837544d1e94664100a01d5717e5fbc557479d96cd9009e11#rd)
 - [LeetCode：二维数组—对角线遍历](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001471&idx=1&sn=ebf7687c6c7a18cb1693d98355f8e16b&chksm=69e7daee5e9053f866f686588504cad39e667ff26c218598bc484b4e6f68b7007314b68ef1a5#rd)
+- [LeetCode刷题——字符串类](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001539&idx=4&sn=f489a77549113db887d55d675a3b5230&chksm=69e7db525e905244523eaf28e525d867b85cc1e5bc35b20e414b9158d17f7086ab8bd113c651#rd)
+- [LeetCode：字符串—最长公共前缀](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001539&idx=1&sn=335652cb752d60b52c5a22f704fc9146&chksm=69e7db525e90524457e43da06c946624c386be9e24bf1774bfcce860cd4bf4208bb240b505bf#rd)
