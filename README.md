@@ -13,3 +13,4 @@ leetcode刷题
 - [LeetCode：字符串—最长公共前缀](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001539&idx=1&sn=335652cb752d60b52c5a22f704fc9146&chksm=69e7db525e90524457e43da06c946624c386be9e24bf1774bfcce860cd4bf4208bb240b505bf#rd)
 - [LeetCode刷题：循环队列](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001686&idx=1&sn=acfdfa519378360c8899c02f2898b145&chksm=69e7dbc75e9052d19876d2b081c2290483bfcba9996e9211f9f1c1e10d9af52b4eb9e1628c16#rd)
 - [LeetCode：堆栈——最小栈](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001756&idx=2&sn=5e43f2a7b961e3789b20bd431f06970e&chksm=69e7db8d5e90529b41da84f16b13bd868ba4dd80d8923133354cd699fc2f6f8db2d80ccce188#rd)
+- [LeetCode：两数之和](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002280&idx=1&sn=61877b6eb4cd533f5befb7cdc955bdce&chksm=69e7d5b95e905cafaf0755560a17cdb4b32a6937eb30b1aa240430f5f6806b35446083768063#rd)
